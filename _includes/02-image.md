@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture added to this page](https://www.zooplus.hu/magazin/wp-content/uploads/2019/05/30-legjobb-macskan%C3%A9v.jpg)
